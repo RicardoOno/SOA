@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Alunos:
+    - Arthur Cairo
+    - Ricardo Ono
+ -->
+<professores>
+    <professor nome="Ademar">
+        <nome>Ademar</nome>
+        <disciplina>Ingles</disciplina>
+        <dataAula>Segunda-Feira</dataAula>
+    </professor>
+    <professor nome="Pedro">
+        <nome>Pedro</nome>
+        <disciplina>Desenvolvimento para Dispositivos Moveis II</disciplina>
+        <dataAula>Sexta-Feira</dataAula>
+    </professor>
+    <professor nome="Rubens">
+        <nome>Rubens</nome>
+        <disciplina>Projeto de Encontrabilidade</disciplina>
+        <dataAula>Quarta-Feira</dataAula>
+    </professor>
+    <professor nome="Thiago">
+        <nome>Thiago</nome>
+        <disciplinas>
+            <disciplina>Arquitetura Orientada a Serviço</disciplina>
+            <disciplina>Topicos Especiais III</disciplina>
+        </disciplinas>
+        <dataAula>Sabado, Quinta-feira</dataAula>
+    </professor>
+    <professor nome="Rodrigo">
+        <nome>Rodrigo</nome>
+        <disciplina>Criação de Empresa para Internet</disciplina>
+        <dataAula>Quinta-Feira</dataAula>
+    </professor>
+    <professor nome="Carlos">
+        <nome>Carlos</nome>
+        <disciplina>Projeto de TG em Sistemas para Internet II</disciplina>
+        <dataAula>Sábado</dataAula>
+    </professor>
+
+</professores>
